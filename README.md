@@ -1,4 +1,4 @@
-# NSClient-0.5.2.35---Privilege-Escalation
+# NSClient 0.5.2.35 Exploit / Privilege-Escalation
 Automated way of exploiting vulnerable NSClient++ 0.5.2.35 for privilege escalation.
 
 Based on Steps described here: https://www.exploit-db.com/exploits/46802
